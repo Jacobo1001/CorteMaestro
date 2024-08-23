@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">CorteMaestro</string>
+    <string name="app_menu">Conoce nuestro menú</string>
+    <string name="app_sede">Conoce nuestras sedes</string>
+    <string name="app_reserva">Realiza tu reserva</string>
+    <string name="app_pedido">Realiza tu pedido</string>
+    <string name="app_calificar">Califica el servicio</string>
+    <string name="app_entradas">Entradas</string>
+    <string name="app_bebidas">Bebidas</string>
+    <string name="app_fuertes">Platos fuertes</string>
+    <string name="app_postres">Postres</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    //ENTRADAS
+    <string name="entrada1">Carpaccio de Res</string>
+    <string name="entrada2">Empanadas de Chorizo y Queso</string>
+    <string name="entrada3">Provoleta a la Parrilla</string>
+
+    <string name="ingentrada1">Finas láminas de res marinadas, servidas con rúcula, queso
+        parmesano y un toque de aceite de oliva.</string>
+    <string name="ingentrada2">Empanadas crujientes rellenas de chorizo artesanal y queso
+        fundido, acompañadas de una salsa de ají picante.</string>
+    <string name="ingentrada3">Queso provolone derretido a la parrilla, cubierto con
+        tomates cherry y un toque de orégano.</string>
+
+    <string name="pre_entrada1">$30,000</string>
+    <string name="pre_entrada2">$20,000</string>
+    <string name="pre_entrada3">$28,000</string>
+
+    //FUERTES
+    <string name="fuerte1">Tomahawk Steak</string>
+    <string name="fuerte2">Ribeye</string>
+    <string name="fuerte3">Wagyu Premium</string>
+
+    <string name="ingfuerte1">Un jugoso corte grueso de carne de res con hueso largo,
+        cocinado a la perfección para resaltar su sabor robusto y textura tierna</string>
+    <string name="ingfuerte2">Un corte de carne marmoleado, jugoso y tierno, conocido
+        por su sabor intenso y suculento</string>
+    <string name="ingfuerte3">Exclusivo filete de Wagyu, cocido a la perfección y servido con
+        reducción de vino tinto, puré trufado y espárragos salteados.</string>
+
+    <string name="pre_fuerte1">$200,000</string>
+    <string name="pre_fuerte2">$120,000</string>
+    <string name="pre_fuerte3">$280,000</string>
+
+    //BEBIDAS
+    <string name="bebida1">Sangría de la Casa</string>
+    <string name="bebida2">Mojito Clásico</string>
+    <string name="bebida3">Malbec Reserva</string>
+
+    <string name="ingbebida1">Refrescante mezcla de vino tinto, frutas
+        frescas y un toque de licor cítrico.</string>
+    <string name="ingbebida2">Mezcla refrescante de ron blanco, menta
+        fresca, jugo de limón y soda.</string>
+    <string name="ingbebida3">Vino tinto con cuerpo, notas de frutos
+        rojos y un final suave.</string>
+
+    <string name="pre_bebida1">$35,000</string>
+    <string name="pre_bebida2">$28,000</string>
+    <string name="pre_bebida3">$60,000 por copa</string>
+
+    //POSTRES
+    <string name="postre1">Torta de Chocolate Amargo</string>
+    <string name="postre2">Cheesecake de Maracuyá</string>
+    <string name="postre3">Crème Brûlée de Vainilla</string>
+
+    <string name="ingpostre1">Torta con capas de chocolate amargo y
+        ganache suave, servida con un toque de crema batida.</string>
+    <string name="ingpostre2">Cremoso cheesecake con una capa de puré
+        de maracuyá, sobre una base de galleta crujiente.</string>
+    <string name="ingpostre3">Clásico postre francés con crema de
+        vainilla y una fina capa de caramelo crocante.</string>
+
+    <string name="pre_postre1">$25,000</string>
+    <string name="pre_postre2">$22,000 </string>
+    <string name="pre_postre3">$28,000</string>
+</resources>
